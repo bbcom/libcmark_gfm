@@ -1,7 +1,7 @@
 #include "cmark-gfm-core-extensions.h"
 #include "autolink.h"
 #include "strikethrough.h"
-#include "table.h"
+#include <table.h>
 #include "tagfilter.h"
 #include "tasklist.h"
 #include "registry.h"

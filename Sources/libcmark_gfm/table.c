@@ -8,7 +8,7 @@
 
 #include "ext_scanners.h"
 #include "strikethrough.h"
-#include "table.h"
+#include <table.h>
 #include "cmark-gfm-core-extensions.h"
 
 cmark_node_type CMARK_NODE_TABLE, CMARK_NODE_TABLE_ROW,
